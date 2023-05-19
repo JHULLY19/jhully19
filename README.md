@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**JHULLY19/jhully19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  QUEM SOU EU  👋
+<br>
+Olá meu nome é jhully,sou um Programador Front End,atualmente sou estudante de ENGENHARIA DE SOFTWARE e cursando um renomado curso DEV CLUB.
+<BR>
+Atualmente faço aplicações nas seguintes tecnologias:
+  <br>
+  
+ -HTML
+  <br>
+ -CSS
+  <br>
+ -JAVASCRIPT
+  <br>
+ -REACT
+  
+  
+  
+  
